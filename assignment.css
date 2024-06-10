@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    text-underline-mode: var();
+}
+
+h3{
+    color: darkorange;
+}
+
+    p{ font-weight: bold;
+
+    }
+body{
+    margin-left: 50px;
+}
+

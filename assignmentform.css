@@ -1,0 +1,27 @@
+form{
+    margin: auto;
+    border-radius: 20px;
+    background-color: white;
+    box-shadow: 12px 12px 12px grey;
+
+
+}
+.divisions{
+    display: flex;
+
+}
+#tab2{
+    width: fit-content;
+}
+legend{
+    font-size: 30px;
+    font-weight: bold;
+}
+input[type=text],input[type=email]{
+    width: 90%;
+}
+button{
+    width: 90%;
+    background-color: blue;
+}
+

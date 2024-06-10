@@ -1,0 +1,22 @@
+#dog1{
+    display: flex;
+}
+#dog2{
+    display: flex;
+}
+#dog3{
+    display: flex;
+}
+img{
+    width: 259px;
+    height: 195px;
+}
+body{
+    margin-left: 40px;
+}
+p{
+    font-size: smaller;
+    font-weight: bold;
+    margin-left: 40px;
+    margin-top: 40px;
+}

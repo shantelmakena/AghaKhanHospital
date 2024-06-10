@@ -1,0 +1,30 @@
+h1{
+color: red;
+    font-size: 50px;
+    background-color: aliceblue;
+    line-height: 100px;
+    text-align: center;
+    font-weight: bolder;
+    text-shadow: 4px 4px 12px yellow;
+}
+h1:hover{
+    background-color: chocolate;
+}
+img{
+height: 200px;
+    width: 300px;
+    text-align: center;
+    margin-left: 40px;
+}
+img:hover{
+    opacity: 0.6;
+}
+
+
+p{
+    font-size: 16px;
+    font-style: italic;
+    font-weight: bold;
+    margin-left: 20px;
+
+}

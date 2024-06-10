@@ -1,0 +1,14 @@
+fieldset{
+    border-color: darkcyan;
+}
+button{
+    width: 90px;
+    background: blue;
+}
+legend{
+    font-weight: bold;
+}
+input[type=text],input[type=email],input[type=textarea]{
+    width: 100%;
+    height: 40px;
+}
